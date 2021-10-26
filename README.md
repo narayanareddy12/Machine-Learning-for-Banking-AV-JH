@@ -7,6 +7,7 @@ The process, defined as ‘risk-based pricing’, uses a sophisticated algorithm
 You can use any combination of the features in the dataset to make your loan rate category predictions. Some features will be easier to use than others.
 
 **Evaluation Metric:**
+
 The evaluation metric for this competition is Weighted F1 Score.
 
 https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/#ProblemStatement
